@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">sample_food</string>
+    <string name="ingedients">
+        1. 1/2 cups all-purpose flour \n
+        2. 3 teaspoons baking powder \n
+        3. 1/2 teaspoon salt \n
+        4. 1/2 cup white sugar \n
+        5. 3 tablespoons unsweetened cocoa powder \n
+        6. 1 cup milk \n
+        7. 2 eggs \n
+        8. 4 tablespoons butter, melted \n
+        9. 1 tablespoon butter, softened \n
+        10. 3/4 cup confectioners' sugar \n
+        11. 1/2 teaspoon vanilla extract \n
+        12. 1 teaspoon milk \n
+
+    </string>
+</resources>
